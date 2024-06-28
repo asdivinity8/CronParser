@@ -10,9 +10,10 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 ### Installation
 
-1. Unzip the folder and add to your code editor:
+1. Clone the repository:
 
     ```sh
+    git clone <repository-url>
     cd cronParser
     ```
 
