@@ -1,0 +1,14 @@
+{
+  
+    "name": "cron-parser",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cronParser.js",
+    "scripts": {
+      "test": "mocha"
+    },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.5.2"
+  }
+}
